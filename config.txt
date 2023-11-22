@@ -1,0 +1,16 @@
+banner = "  _    _    _    _  
+ / \\  / \\  / \\  / \\ 
+( B )( l )( a )( k )
+ \\_/  \\_/  \\_/  \\_/  
+  _    _    _    _    _    _  
+ / \\  / \\  / \\  / \\  / \\  / \\ 
+( B )( a )( n )( d )( i )( t )
+ \\_/  \\_/  \\_/  \\_/  \\_/  \\_/ ";
+color = 93
+
+url = https://youtube.com/@blakbandit08
+url = http://youtube.com/@Mr-XsZ
+url = http://youtube.com/@info-ttermux
+url = https://t.me/Termuxzts
+
+url_color = 36
